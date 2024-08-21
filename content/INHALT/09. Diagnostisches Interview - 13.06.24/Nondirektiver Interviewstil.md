@@ -1,2 +1,0 @@
-- z.B. keine Suggestivfragen
-- Passiert gerne wenn Interviewer seine Hypothesen bestätigen möchte und so frägt, dass die gewünschten Antworten kommen

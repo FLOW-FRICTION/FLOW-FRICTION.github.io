@@ -1,1 +1,0 @@
-z.B. Was ist – in einem wissenschaftlichen Kontext „richtig“, zugreffend, wahr bzw. „wissenschaftlich, d.h. theoretisch und empirisch begründbar“ anhand theoretisch und empirisch gestützter Aussagen?

@@ -1,1 +1,0 @@
-Manchmal zu Beginn vorhanden, aber je länger die Ton- oder Videoaufzeichnung geht, desto mehr vergessen es die Befragten. Die Reaktanz verfliegt also mit der Zeit. 
