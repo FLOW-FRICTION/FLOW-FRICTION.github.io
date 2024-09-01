@@ -1,0 +1,1 @@
+Ein Beobachter nutzt die äußeren Skalenwerte zur Beurteilung von Verhalten. Kann abgeschwächt werden, indem gerade Zahlen bei der Ratingskala genutzt werden.

@@ -1,0 +1,2 @@
+- Integration neuer Informationen
+- Integration von Informationen in bestehende Wissensstrukturen

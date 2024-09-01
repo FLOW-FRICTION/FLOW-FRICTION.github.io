@@ -1,0 +1,1 @@
+- Möglich, wenn Daten einigermaßen Normalverteilt sind

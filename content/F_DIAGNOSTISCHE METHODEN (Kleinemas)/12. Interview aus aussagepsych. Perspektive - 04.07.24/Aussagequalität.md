@@ -1,0 +1,1 @@
+Inwieweit weist die Aussage Merkmale auf, die in [[Aussageimmanente Kriterien#^5c56ab|erlebnisfundierten Schilderungen]] zu erwarten sind, in frei erfundenen oder von Dritten induzierten Aussagen aber fehlen?

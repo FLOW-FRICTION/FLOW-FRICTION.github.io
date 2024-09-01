@@ -1,0 +1,3 @@
+Verhaltenstest stellen eine Kombination von [[Strukturierte Beobachtung]] durch den Therapeuten und [[Selbstbeobachtung]] im natürlichen Umfeld dar.
+
+- Beispiel: der Therapeut fordert den agoraphobischen Patienten dazu auf den gefürchteten Supermarkt in der Nähe aufzusuchen und dabei seine erlebte Angst auf einer Skala 0-100 zu raten (über mehrere Messpunkte lässt sich so auch der Therapieerfolg messen)

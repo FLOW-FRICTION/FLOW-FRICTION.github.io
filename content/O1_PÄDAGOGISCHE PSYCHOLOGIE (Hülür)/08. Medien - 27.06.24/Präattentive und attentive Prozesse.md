@@ -1,0 +1,4 @@
+- Präattentive Prozess
+	- <span style="color:rgb(0, 176, 240)">Automatische Wahrnehmungsprozesse</span> können vom Vorwissen der Lernenden abhängen
+- Attentive Prozesse
+	- Zielgerichtete und Bewusste Analyse eines Bildes

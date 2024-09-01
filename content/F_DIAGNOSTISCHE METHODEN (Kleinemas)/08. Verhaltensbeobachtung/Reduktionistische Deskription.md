@@ -1,0 +1,7 @@
+- Nur <span style="color:rgb(0, 176, 240)">Ausschnitte</span> des Verhaltensstroms werden erfasst
+- Zur Reduzierung des Datenmaterials, Nutzung von 
+	- Live Fixierung
+		- [[Zeichensysteme]]
+		- [[Kategoriensysteme]]
+	- Nachträgliche Fixierung
+		- [[Rating- & Einschätzungsverfahren]]

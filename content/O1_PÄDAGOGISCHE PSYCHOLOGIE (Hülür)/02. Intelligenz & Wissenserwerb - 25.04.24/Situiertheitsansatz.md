@@ -1,0 +1,1 @@
+Wissen kann nicht unabhängig vom Kontext erworben werden

@@ -1,0 +1,1 @@
+Der Begriff funktionaler Analphabetismus bezeichnet die unzureichend entwickelte Fähigkeit, die schriftbasierte Sprache in sozial adäquater Weise zu verstehen und Texte zu produzieren. So können Menschen, die als funktionale Analphabeten einzustufen sind, zwar meist ihren Namen schreiben und einzelne Worte erkennen, sind jedoch nicht in der Lage, längere Texte zu verstehen

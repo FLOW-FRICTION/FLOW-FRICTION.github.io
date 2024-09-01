@@ -1,0 +1,1 @@
+Individuelle Unterschiede in der professionellen Kompetenz entstehen durch Unterschiede in der <span style="color:rgb(0, 176, 240)">Qualität und Länge der Ausbildung</span> 

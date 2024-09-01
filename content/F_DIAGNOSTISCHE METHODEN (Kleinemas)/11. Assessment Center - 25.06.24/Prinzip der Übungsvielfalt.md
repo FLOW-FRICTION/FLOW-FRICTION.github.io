@@ -1,0 +1,1 @@
+Die unterschiedlichen Übungen sollen möglichst <span style="color:rgb(0, 176, 240)">unterschiedliche Facetten</span> des Bewerbers erfassen, damit steigt auch die Möglichkeit Stärken und Schwächen des Bewerbers herauszuarbeiten.

@@ -1,0 +1,15 @@
+- Global vs. analytisch
+	- Global = Objekt/Programm wird als ganzes Bewertet
+	- Analytisch = detaillierte Überprüfung eines Programms o. einzelner Komponenten
+- intern vs. extern
+	- intern: durch den Laden selbst
+	- extern: durch externe Behörden
+- isoliert vs. vergleichend vs. kombinierte Evaluation
+	- isoliert = Interventionsgruppe vs. KG
+	- vergleichend = Interventionsgruppe vs. Interventionsgruppe
+	- kombinierte = Interventionsgruppe vs. Interventionsgruppe vs. Kontrollgruppe
+- Summative vs. formative Evaluation
+	- summative = Betrachtung eines Produkts
+	- formative = Betrachtung eines Prozesses
+- Ranking
+	- z.B. PISA-Ranking

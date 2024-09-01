@@ -1,0 +1,1 @@
+Eine Diagnose liefert Aussagen darüber, welche Sachverhalte (in der Vergangenheit) für ein Verhalten (in der Gegenwart) verantwortlich sind.

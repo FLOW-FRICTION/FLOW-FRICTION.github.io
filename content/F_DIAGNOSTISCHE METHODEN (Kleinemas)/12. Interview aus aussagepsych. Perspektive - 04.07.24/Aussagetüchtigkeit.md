@@ -1,0 +1,1 @@
+Verfügt die Aussageperson überhaupt über die notwendigen <span style="color:rgb(0, 176, 240)">kognitiven Voraussetzungen</span> (z.B. Beobachtungs-, Erinnerungs , Ausdrucksvermögen), die zur Erstattung einer (gerichts-) verwertbaren Aussage notwendig sind?

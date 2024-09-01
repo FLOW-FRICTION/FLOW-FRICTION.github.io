@@ -1,0 +1,10 @@
+- <span style="color:rgb(0, 176, 240)">Dualism</span>
+	- "Alles was ich weiß ist etwa richtig oder falsch"
+- <span style="color:rgb(0, 176, 240)">Multiplicity</span>
+	- "Mein Wissen kann richtig sein. Und es gibt Dinge, die ich nicht weiß"
+- <span style="color:rgb(0, 176, 240)">Contextual Relativism</span>
+	- "Wenig Wissen ist eindeutig richtig oder falsch."
+	- Wissen = aktiver-konstruktiver Prozess
+- <span style="color:rgb(0, 176, 240)">Commitment within Relativism</span>
+	- "==Verantwortung== für eigene Wissenskonstruktion wird übernommen"
+	- Das was ich zu wissen glaube hat die Gründe ...

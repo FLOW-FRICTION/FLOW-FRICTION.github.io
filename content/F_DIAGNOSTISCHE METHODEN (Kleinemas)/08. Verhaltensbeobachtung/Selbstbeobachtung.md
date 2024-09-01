@@ -1,0 +1,1 @@
+Patienten protokollieren eigene Verhaltensweisen, Kognitionen, Gefühle und körperliche Reaktionen, die mit ihrem Problem in engem Zusammenhang stehen (z. B. Raucherentwöhnung, Schmerztagebücher, etc.)

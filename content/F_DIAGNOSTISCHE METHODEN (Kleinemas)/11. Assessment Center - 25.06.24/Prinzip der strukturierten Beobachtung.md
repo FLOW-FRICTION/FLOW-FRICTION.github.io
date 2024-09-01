@@ -1,0 +1,1 @@
+Es wird im Vorhinein festgelegt <span style="color:rgb(0, 176, 240)">welches Verhalten</span> beobachtet und registriert wird.

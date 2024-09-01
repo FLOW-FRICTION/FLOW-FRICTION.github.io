@@ -1,0 +1,3 @@
+- Faktenwissen
+- Zusammenhängende Konzepte
+- verbalisierbar

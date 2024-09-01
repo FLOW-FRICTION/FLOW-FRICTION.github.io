@@ -1,0 +1,5 @@
+- Breiterer Begriff als Erziehung
+- Anpassung an ==gesellschaftliche Denk- und Gefühlsmuster== sowie an ==Erwartungen und Erfordernisse der Umwelt==
+- Auseinandersetzung mit und Internalisierung von ==sozialen Normen==
+- führt zu Übereinstimmung mit ==Verhaltenserwartungen== oder zu intendierter Nicht-Übereinstimmung
+    - Kenntnis von Verhaltenserwartungen jedoch in beiden Fällen gegeben

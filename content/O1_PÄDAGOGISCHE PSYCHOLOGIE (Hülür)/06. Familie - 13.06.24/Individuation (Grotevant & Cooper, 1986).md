@@ -1,0 +1,4 @@
+- Einigermaßen gleichbleibende Verbundenheit zu Eltern in der Adoleszenz
+- Gleichzeitig eine ==höhere affektive Intensität== von Konflikten
+ - = Transformationsprozess in der Beziehung
+ - Balance zwischen Wunsch nach ==Verbundenheit== und ==Autonomie== wird neu ausgehandelt

@@ -1,0 +1,8 @@
+- Sprachliche Einfachheit
+	- Text soll kurze & einfache Formulierungen verwenden, sparsamer Einsatz von Fremdwörtern und deren Erklärung
+- Gliederung/Ordnung
+	- Überschriften zum Gliedern, roter Faden
+- Kürze/Prägnanz
+- Zusätzliche Stimulanz
+	- Text soll den Leser motivieren ihn vollständig zu lesen (
+	- z.B. durch direkte Ansprache des Leser, Formulierungen, Veranschaulichungen

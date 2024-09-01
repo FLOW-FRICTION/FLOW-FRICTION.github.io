@@ -1,0 +1,3 @@
+- Positive Emotionen werden häufiger erlebt und gezeigt als negative
+- Positive Emotionen wie Freude oder Enthusiasmus wirken sich günstig auf die Motivation der Schülerinnen und Schüler aus
+	- -> [[Enthusiasmus im Lehrerberuf]]

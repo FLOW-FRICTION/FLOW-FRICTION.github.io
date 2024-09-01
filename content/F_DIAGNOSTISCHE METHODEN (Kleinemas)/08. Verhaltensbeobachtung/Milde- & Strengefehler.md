@@ -1,0 +1,1 @@
+Beobachter fällt im Vergleich zu anderen  zu gute oder zu schlechte Urteile. 

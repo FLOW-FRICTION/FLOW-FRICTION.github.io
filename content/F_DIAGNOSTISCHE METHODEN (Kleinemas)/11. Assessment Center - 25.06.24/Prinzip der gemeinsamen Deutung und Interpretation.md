@@ -1,0 +1,1 @@
+Der Beobachter bildet nicht nur aufgrund seiner eigenen Beobachtung sein Urteil, sondern erfragt auch die <span style="color:rgb(0, 176, 240)">Sichtweise des Teilnehmers</span>.

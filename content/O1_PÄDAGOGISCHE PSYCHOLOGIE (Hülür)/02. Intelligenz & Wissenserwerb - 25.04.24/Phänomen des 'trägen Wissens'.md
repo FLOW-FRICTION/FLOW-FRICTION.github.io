@@ -1,0 +1,2 @@
+- Personen haben Wissen, dieses ist aber träge und isoliert
+- kann nicht übertragen werden

@@ -1,0 +1,2 @@
+- ein Beobachter bevorzugt mittlere Skalenpositionierungen
+- Kann abgeschwächt werden, indem gerade Zahlen bei der Ratingskala genutzt werden.

@@ -1,0 +1,1 @@
+Individuelle Unterschiede in der professionellen Kompetenz können hauptsächlich durch bestimmte <span style="color:rgb(0, 176, 240)">stabile Persönlichkeitsmerkmale</span> erklärt werden

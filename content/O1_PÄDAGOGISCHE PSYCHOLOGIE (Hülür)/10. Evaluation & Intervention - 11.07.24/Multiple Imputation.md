@@ -1,0 +1,1 @@
+- generation von Multiplen Datensätzen je nach fehlenden Daten -> Schätzung der Interessierenden Effekte

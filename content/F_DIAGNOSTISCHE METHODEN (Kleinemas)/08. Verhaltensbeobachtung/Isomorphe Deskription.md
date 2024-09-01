@@ -1,0 +1,3 @@
+- <span style="color:rgb(0, 176, 240)">vollständige</span> Erfassung der Daten (z.B. Verhaltensstrom)
+- Vorteil: keine Daten gehen verloren
+- Man braucht technische Infrastruktur (Kameras etc.)

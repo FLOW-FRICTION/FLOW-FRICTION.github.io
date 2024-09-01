@@ -1,0 +1,29 @@
+---
+anki: false
+---
+[[O_Pädagogische_Psychologie_&_Entwicklungsdiagnostik]]
+
+
+[[GRUNDLAGEN DER PÄDAGOGISCHEN PSYCHOLOGIE]]
+
+[[INTELLIGENZ UND WISSENSERWERB]]
+
+[[SELBSTREGULATION]]
+
+[[MOTIVATION (O1)]]
+
+[[SELBSTKONZEPT]]
+
+[[ROLLE DER FAMILIE IN DER PÄDAGOGISCHEN PSYCHOLOGY]]
+
+[[LEHRKRÄFTE]]
+
+[[MEDIEN (O1)]]
+
+[[PÄDAGOGISCH-PSYCHOLOGISCHE DIAGNOSTIK]]
+
+
+
+
+### Offen
+04 Motivation: Folie 21 - 23

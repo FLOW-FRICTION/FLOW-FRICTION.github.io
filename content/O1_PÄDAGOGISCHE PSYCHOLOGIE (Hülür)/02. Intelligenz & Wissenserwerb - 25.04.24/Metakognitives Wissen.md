@@ -1,0 +1,3 @@
+- [[Deklaratives metakognitives Wissen]]
+- [[Prozedurales metakognitives Wissen]]
+- [[Epistemologische Überzeugungen]]
